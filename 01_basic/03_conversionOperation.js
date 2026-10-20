@@ -1,9 +1,9 @@
 let score = "33aaa";
-let score1= null
+let score1 = null
 
 
-console.log(typeof score)
-console.log(typeof(score))
+// console.log(typeof score)
+// console.log(typeof (score))
 
 let valueInNumber = Number(score)
 // console.log(typeof(valueInNumber))
@@ -26,7 +26,31 @@ let isLoggedIn = true
 // " " => false
 // "kunal" => true
 
-let someNumber = 33;
-let stringNumner = String(someNumber)
-console.log(stringNumner)
-console.log(typeof (stringNumner))
+// let someNumber = 33;
+// let stringNumner = String(someNumber)
+// console.log(stringNumner)
+// console.log(typeof (stringNumner))
+
+
+// ******************** Operations ********
+// let value = 3
+// let negValue = -value
+// console.log(negValue)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2/3);
+// console.log(2%2);
+
+// let str1 = "kunal"
+// let str2 = " kumar"
+// let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1"+2);
+// console.log(1+ "2");
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+
+console.log(+true);
+console.log(+"");
